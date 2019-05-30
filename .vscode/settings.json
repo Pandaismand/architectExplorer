@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"E:/ue4/422/architectExplorer/.git": true,
+		"E:/ue4/422/architectExplorer/.vs": true,
+		"E:/ue4/422/architectExplorer/.vscode": true,
+		"E:/ue4/422/architectExplorer/Content": true,
+		"E:/ue4/422/architectExplorer/Intermediate": true,
+		"E:/ue4/422/architectExplorer/Saved": true
+	}
+}
